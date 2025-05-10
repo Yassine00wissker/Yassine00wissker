@@ -15,12 +15,6 @@
 
 ---
 
-### 🗓️ Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassine00wissker&theme=react-dark&hide_border=true)
-
----
-
 ### 🛠️ Languages and Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
