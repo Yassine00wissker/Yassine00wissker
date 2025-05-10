@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Yassine Yahyaoui
 ### 📊 GitHub Stats
 
-!yassine yahyaoui(https://github-readme-stats.vercel.app/api?Yassine00wissker&show_icons=true&theme=radical)
+![Yassine Yahyaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassine00wissker&show_icons=true&theme=radical)
+
 
 🚀 Full-stack developer building smart web apps with MERN + AI  
 🧠 Learning machine learning with Python, and real-world deployment  
