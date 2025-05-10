@@ -9,11 +9,6 @@
 📫 Reach me: yassineyahyaoui40@gmail.com 
 ### 🛠️ Languages and Tools
 
-### 🗓️ Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassine00wissker&theme=react-dark&hide_border=true)
-
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
