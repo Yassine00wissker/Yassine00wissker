@@ -3,12 +3,16 @@
 
 ![Yassine Yahyaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassine00wissker&show_icons=true&theme=radical)
 
-
 🚀 Full-stack developer building smart web apps with MERN + AI  
 🧠 Learning machine learning with Python, and real-world deployment  
 🔨 Currently working on an AI-powered product recommendation engine  
 📫 Reach me: yassineyahyaoui40@gmail.com 
 ### 🛠️ Languages and Tools
+
+### 🗓️ Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yassine00wissker&theme=react-dark&hide_border=true)
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
