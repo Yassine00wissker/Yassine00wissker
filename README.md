@@ -5,14 +5,12 @@
 🔨 Currently working on an **AI-powered Product Recommendation Engine**  
 📫 Reach me: **[yassineyahyaoui40@gmail.com](mailto:yassineyahyaoui40@gmail.com)**  
 
----
-
 ## 📊 GitHub Stats
 
-![Yassine Yahyaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassine00wissker&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine00wissker&layout=compact&theme=radical)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine00wissker&show_icons=true&theme=radical" alt="Yassine Yahyaoui's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine00wissker&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
 ## 🛠️ **Languages & Tools**
 
