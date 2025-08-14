@@ -75,4 +75,4 @@
 
 💌 **Let’s collaborate!**  
 If you have exciting ideas or projects, feel free to reach out via  
-📧 [yassineyahyaoui40@gmail.com](mailto:yassineyahyaoui40@gmail.com) or [LinkedIn](www.linkedin.com/in/yassin-yahyaoui-8129632ab)
+📧 [yassineyahyaoui40@gmail.com](mailto:yassineyahyaoui40@gmail.com)
