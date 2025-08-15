@@ -59,13 +59,7 @@
 </p>
 
 ---
-
-## 📈 Visitor Count
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Yassine00wissker/count.svg" />
-</p>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Yassine00wissker&color=blue)
 ---
 
 ### 💡 Fun Fact
