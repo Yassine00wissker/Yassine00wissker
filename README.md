@@ -15,20 +15,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yassine00wissker&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yassine00wissker&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <!-- Frontend -->
